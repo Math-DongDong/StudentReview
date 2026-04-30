@@ -1,0 +1,6 @@
+[client]
+# 우측 상단 메뉴 숨김
+toolbarMode = "minimal"
+
+# 에러 표시 코드 숨김
+# showErrorDetails = "none"
